@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @geek4unix 🐧
-- 👀 I’m interested in Linux,Ansible,Python,NLP +More
+- 👀 I’m interested in Linux,Automation,ML +More
 - 🌱 I’m currently learning about Spacy and NLP, Ansible
 - 💞️ I’m looking to collaborate on Spacy and NLP
 - 📫 How to reach me : geek4unix at gmail
