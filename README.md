@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @geek4unix 🐧
-- 👀 I’m interested in Linux,Automation,ML +More
+- 👀 I’m interested in Linux,Automation,Monitoring +More
 - 🌱 I’m currently learning about Spacy and NLP, Ansible
-- 💞️ I’m looking to collaborate on Spacy and NLP
+- 💞️ I’m looking to collaborate on Linux / Configuration Mgmt / Architecture
 - 📫 How to reach me : geek4unix at gmail
 
 <!---
